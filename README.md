@@ -1,0 +1,2 @@
+# smart
+A blink detector
